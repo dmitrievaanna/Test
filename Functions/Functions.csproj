@@ -63,6 +63,7 @@
     </Compile>
     <Compile Include="Function2.Designer.cs">
       <DependentUpon>Function2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Function1.cs">
       <SubType>Form</SubType>
     </Compile>
