@@ -22,5 +22,11 @@ namespace Functions
             frmAbout f = new frmAbout();
             f.ShowDialog();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Function1 f = new Function1();
+            f.ShowDialog();
+        }
     }
 }
