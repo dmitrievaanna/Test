@@ -23,6 +23,13 @@ namespace Functions
             f.ShowDialog();
         }
 
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Function2 f = new Function2();
+   	    f.ShowDialog();
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             Function1 f = new Function1();

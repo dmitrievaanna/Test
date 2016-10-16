@@ -58,6 +58,11 @@
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="Function2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Function2.Designer.cs">
+      <DependentUpon>Function2.cs</DependentUpon>
     <Compile Include="Function1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +77,8 @@
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Function2.resx">
+      <DependentUpon>Function2.cs</DependentUpon>
     <EmbeddedResource Include="Function1.resx">
       <DependentUpon>Function1.cs</DependentUpon>
     </EmbeddedResource>
