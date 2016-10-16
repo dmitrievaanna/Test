@@ -79,6 +79,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Function2.resx">
       <DependentUpon>Function2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Function1.resx">
       <DependentUpon>Function1.cs</DependentUpon>
     </EmbeddedResource>
